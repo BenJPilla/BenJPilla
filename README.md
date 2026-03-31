@@ -1,6 +1,6 @@
 ## Hi there, my name is Ben Pilla! 👋
 
-Here are some ideas to get you started:
+Here are some things to know about me...
 
 - 🔭 I'm currently workin on learning IT-Web Authorting
 - 🌱 I’m currently learning the basics of GitHub
