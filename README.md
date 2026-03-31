@@ -1,8 +1,5 @@
 ## Hi there, my name is Ben Pilla! 👋
 
-<!--
-**BenJPilla/BenJPilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I'm currently workin on learning IT-Web Authorting
@@ -14,4 +11,3 @@ Here are some ideas to get you started:
 - 📖 My favorite book is The Lord of the Rings: The Two Towers (Though I love the full series!)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My dream is to eventually work on video game development, particurly in narrative and gameplay design!
--->
